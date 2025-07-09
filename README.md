@@ -46,4 +46,7 @@ Format : python cli.py "prompt" --model phi --stream
 python cli.py "Tell me a joke" --model phi --stream
 ```
 
+## Frontend Optional
+![image](https://github.com/user-attachments/assets/23298b52-c28c-4cbc-a154-c1e1693987e6)
+
 
