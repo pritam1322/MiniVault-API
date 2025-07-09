@@ -16,6 +16,9 @@ cd MiniVault-API
 ```bash
 cd minivault-api
 pip install -r requirements.txt
+```
+frontend is optional you can use cli mentioned below as well 
+``` bash
 cd ..
 cd frontend
 npm install
